@@ -26,4 +26,6 @@ git init
 if you do the above git will start tracking changes in your codes and now you are able to use git
 
 ## Important commands
-- git add . (this will help you to add your files to the track area)
+1.  `git add .` (this will help you to add your files to the track area)
+2. `git commit` -m "a description of what you're saving"
+3. `git push` pushes the saved version of your codes
